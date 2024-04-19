@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(226, 241, 199);
+}
+
+#my-picture{
+    width: 200px;
+    height: 200px;
+    border-radius: 15%;
+    padding: 5px;
+}
+
+
+#page-selectors{
+text-align:center
+}
+
